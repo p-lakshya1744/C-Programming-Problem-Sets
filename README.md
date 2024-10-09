@@ -1,6 +1,8 @@
 # C Programming Problems
 Welcome to the C Programming Problems repository! This collection of programming exercises is designed for learners who wish to deepen their understanding of the C programming language. Each program focuses on a specific concept, providing practical experience and enhancing problem-solving skills.
 
+This repository is a work in progress, and contributions are welcome! If you would like to add more programming challenges or improve existing solutions, feel free to fork the repository and submit a pull request.
+
 ## Table of Contents
 1. [Getting Started](#getting-started)
 2. [Program Bootcamp File](#program-bootcamp-file)
