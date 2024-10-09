@@ -1,0 +1,28 @@
+Program1 -- Program to print hello world
+Program2 -- Program that accepts the marks of 5 subjects and find the sum and percentage marks obtained by the student
+Program3 -- Program that calculates simple interest and compound interest when principal, rate of interest and time are entered through keyboard
+Program4 -- Program that accepts the temperature in Centigrade and converts it into Fahreneit
+Program5 -- Program that swaps values of two variables using a third variable
+Program6 -- Program that checks whether the two numbers entered by the user are equal or not
+Program7 -- Program to find the greatest of three numbers
+Program8 -- Program that finds whether the given number is even or odd
+Program9 -- Program to calculate area and circumference of a circle whose radius is entered through the keyboard
+Program10 -- Program to find out the roots of a quadratic equation
+
+Program11 -- Program that will read a positive 5-digit number from the keyboard and print in the reverse order
+Program12 -- Program to check whether a character is uppercase, lowercase, non-alphabetical symbol
+Program13 -- Program to study about all four storage classes
+Program14 -- Program to find the greatest of three numbers using ternary operator
+Program15 -- Program to check whether a character is vowel or consonant, special symbol, a white space or digit
+Program16 -- Program to check whether a year is leap year or not
+Program17 -- Program to determine the type of a triangle
+Program18 -- Program to simulate a calculator using switch statement
+Program19 -- Program to check whether a character is vowel or consonant using switch
+Program20 -- Program to count the even and odd numbers in an array
+
+Program21 -- Program to find maximum and minimum number in an array
+Program22 -- Program to reverse the array
+Program23 -- Program to print the sum and difference of two matrices
+Program24 -- Program to find the transpose of a matrix
+Program25 -- Program to find the sum of diagonal elements of a matrix
+Program26 -- Program to find the product of two matrices
