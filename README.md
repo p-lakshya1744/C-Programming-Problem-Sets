@@ -13,6 +13,3 @@ Once cloned, you can navigate into the directory and run any of the programs usi
 
 ## Program Bootcamp File
 A comprehensive list of all the programming exercises can be found in the program_bootcamp.txt file. This file contains a structured overview of each program, along with a brief description of its functionality. You can refer to this file for quick access to the programs available in this repository.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
