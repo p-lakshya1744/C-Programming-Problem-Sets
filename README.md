@@ -3,9 +3,7 @@ Welcome to the C Programming Problems repository! This collection of programming
 
 ## Table of Contents
 1. [Getting Started](#getting-started)
-2. [List of Programs](#list-of-programs)
-3. [Contributing](#contributing)
-4. [License](#license)
+2. [Program Bootcamp File](#program-bootcamp-file)
 
 ## Getting Started
 To get started with this repository, clone it to your local machine.
